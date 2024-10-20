@@ -3,13 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharindu-d-rajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-d-rajapaksha" /> </p>
 
-- 🔭 I’m currently working on **test**
+- 🔭 I’m currently studying on **Sir John Kotalawala Defense University**
 
-- 🌱 I’m currently learning **HTML**
-
-- 👯 I’m looking to collaborate on **test**
-
-- 🤝 I’m looking for help with **test**
+- 🌱 I’m currently learning **Frontend Development** **Web Designing**
 
 - 💬 Ask me about **HTML**
 
