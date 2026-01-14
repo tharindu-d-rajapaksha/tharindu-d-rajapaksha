@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **Sir John Kotalawala Defense University**
 
-- 🌱 I’m currently learning **Frontend Development** **Web Designing**
+- 🌱 I’m currently learning **Cyber Security**and**Network Security**
 
 - 💬 Ask me about **HTML**
 
