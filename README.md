@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharindu D Rajapaksha</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center"> Network Security & Cyber Security Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharindu-d-rajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-d-rajapaksha" /> </p>
 
